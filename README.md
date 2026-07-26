@@ -26,7 +26,8 @@ My work spans **Artificial Intelligence, Machine Learning, Data Analytics, and F
 
 Currently, I'm focused on building **AI-powered applications, analytics platforms, and scalable software products** while strengthening my problem-solving skills through **Data Structures & Algorithms and Competitive Programming**.
 
-- 🔭 **Currently building:** Aadhaar Insights — an end-to-end analytics platform using official UIDAI datasets
+- 🔭 **Currently Building:** Intelligent AI and Data-Driven Applications
+- 🌱 **Currently Learning:** • Advanced System Design • Cloud & DevOps • Large Language Models (LLMs)
 - 🤖 **Interested in:** AI/ML, Data Analytics, Product Engineering, and Applied AI
 - 📊 **Working with:** Python, SQL, Pandas, Power BI, and Machine Learning
 - 💻 **Problem solving:** Practicing DSA and Competitive Programming in Java
@@ -39,32 +40,35 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 ## 🚀 Featured Projects
 
 ### 📊 Aadhaar Insights — End-to-End Analytics Platform
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/Aadhaar-Insights-Analytics-Platform.git)
 
 > Transforming official UIDAI datasets into actionable regional, temporal, and demographic insights.
 
-- Analyzed **three official UIDAI datasets** through exploratory and diagnostic data analysis
-- Developed preprocessing and anomaly detection workflows for complex public datasets
-- Created interactive visualizations to identify regional and demographic patterns
-- Building **Power BI dashboards, ML-based demand forecasting, and a Streamlit analytics application**
+- Performed end-to-end analysis on **three official UIDAI datasets** comprising enrolment, demographic updates, and biometric updates.
+- Built preprocessing pipelines, anomaly detection workflows, and interactive visualizations to uncover demographic, regional, and temporal trends.
+- Developed an analytics platform featuring Power BI dashboards, ML-based forecasting, and a Streamlit interface for interactive insights.
+- Generated actionable recommendations to support data-driven decision-making using public-sector datasets.
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI` `Scikit-learn`
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI` `Scikit-learn` `RandomForest`
 
 ---
 
 ### 🏥 AI HealthBot — AI-Powered Healthcare Assistant
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/AI-HealthBot-Companion.git)
 
 > A multilingual AI healthcare platform designed to improve preliminary healthcare accessibility for rural communities and NGOs.
 
-- Developed symptom assessment and severity-based triage using **Gemini 2.5 Flash**
+- Developed symptom assessment and severity-based triage using **Gemini 2.5 Pro**
 - Designed a secure full-stack architecture with user and NGO workflows
 - Implemented health history, emergency assistance, and analytics dashboards
 - Built responsive interfaces for accessible healthcare interactions
 
-**Tech Stack:** `React` `TypeScript` `Node.js` `Supabase` `Gemini 2.5 Flash` `JWT`
+**Tech Stack:** `React` `TypeScript` `Node.js` `Supabase` `Gemini 2.5 Pro` `JWT`
 
 ---
 
 ### 🚗 Swayam Saarthi — Reverse Ride-Hailing Platform
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/Swayam-Saarthi.git)
 
 > A product platform that enables users to book verified drivers for their own vehicles.
 
@@ -79,7 +83,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,typescript"/>
@@ -104,7 +108,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,sqlite"/>
 </p>
 
 ### ☁️ Cloud & Developer Tools
@@ -166,7 +170,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 ## 🎯 What I'm Working Towards
 
-I want to build products at the intersection of **AI, Data, and Software Engineering** — systems that do more than demonstrate a technology and instead solve a clear user or business problem.
+I enjoy building software products that combine **AI, data, and scalable engineering** to solve practical problems. My goal is to contribute to high-impact systems where I can work across software engineering, machine learning, and analytics while continuously improving my technical depth.
 
 I'm particularly interested in opportunities where I can:
 
@@ -188,6 +192,9 @@ I'm always open to discussing **AI/ML, Data Analytics, Software Engineering, Pro
   </a>
   <a href="mailto:ranjanpriyanshu441@gmail.com">
     <img src="https://img.shields.io/badge/Reach_Out-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://priyanshu02-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_More-Portfolio-0A66C2?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
 
