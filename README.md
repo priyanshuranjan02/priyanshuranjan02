@@ -124,6 +124,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 - 🏅 **Global Rank 1206 — TCS CodeVita Season 13**
 - ☁️ **Oracle OCI Data Science Professional**
 - 🤖 **Applied Machine Learning in Python**
+- ☁️ **Oracle Agentic AI Foundation Associates**
 - 🧠 **Graph Camp — AlgoUniversity**
 - 💻 Actively solving **Data Structures & Algorithms and Competitive Programming problems**
 
