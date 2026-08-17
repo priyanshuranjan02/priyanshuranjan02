@@ -14,6 +14,9 @@ AI/ML Engineer • Data Analytics Enthusiast • Product Builder
   <a href="https://github.com/priyanshuranjan02">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://priyanshu02-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_More-38BDF8?style=for-the-badge&logo=web&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -134,38 +137,30 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshuranjan02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- <img src="https://github-readme-stats-eight-sigma-62.vercel.app/api?username=priyanshuranjan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats" /> -->
+<img src="https://github-readme-stats-eight-sigma-62.vercel.app/api?username=priyanshuranjan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<!-- <img src="https://streak-stats.demolab.com?user=priyanshuranjan02&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+ -->
+<img src="https://github-readme-streak-stats-opal-eight-99.vercel.app/?user=priyanshuranjan02&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuranjan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br />
 
-<br/>
+<img src="https://github-readme-stats-eight-sigma-62.vercel.app/api/top-langs?username=priyanshuranjan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=priyanshuranjan02&theme=tokyonight&hide_border=true" />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuranjan02&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Map" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## Competitive Programming & Profiles
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/priyanshuranjan02/priyanshuranjan02/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/priyanshuranjan02/priyanshuranjan02/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/priyanshuranjan02/priyanshuranjan02/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/priyanshu0210/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/priyanshu0210)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_multitasker)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranjanpriyanshu6)
 
 ---
 
