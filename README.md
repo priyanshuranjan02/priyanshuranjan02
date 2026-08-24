@@ -44,6 +44,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 ### 📊 Aadhaar Insights — End-to-End Analytics Platform
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/Aadhaar-Insights-Analytics-Platform.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=web)](https://aadhaar-insights.streamlit.app/)
 
 > Transforming official UIDAI datasets into actionable regional, temporal, and demographic insights.
 
@@ -58,6 +59,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 ### 🏥 AI HealthBot — AI-Powered Healthcare Assistant
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/AI-HealthBot-Companion.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=web)](https://ai-health-bot-companion.vercel.app/)
 
 > A multilingual AI healthcare platform designed to improve preliminary healthcare accessibility for rural communities and NGOs.
 
@@ -72,6 +74,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 ### 🚗 Swayam Saarthi — Reverse Ride-Hailing Platform
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/Swayam-Saarthi.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=web)](https://swayam-saarthi.vercel.app/)
 
 > A product platform that enables users to book verified drivers for their own vehicles.
 
