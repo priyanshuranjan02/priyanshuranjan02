@@ -160,7 +160,7 @@ Currently, I'm focused on building **AI-powered applications, analytics platform
 
 ## Competitive Programming & Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/priyanshu0210/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/priyanshuranjan02/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/priyanshu0210)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_multitasker)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranjanpriyanshu6)
