@@ -15,7 +15,7 @@ AI/ML Engineer • Data Analytics Enthusiast • Product Builder
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://priyanshu02-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_More-38BDF8?style=for-the-badge&logo=web&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)"/>
   </a>
 </p>
 
