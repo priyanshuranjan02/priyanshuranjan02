@@ -1,208 +1,231 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Ranjan</h1>
 
-<h3 align="center">
-AI/ML Engineer • Data Analytics Enthusiast • Product Builder
-</h3>
+<h3 align="center">Data Analytics • Applied AI/ML • Software Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-ranjan-74170a227/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ranjanpriyanshu441@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/priyanshuranjan02">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://priyanshu02-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white)"/>
-  </a>
+  <strong>B.Tech Computer Science & Engineering (AI & ML) · VIT Bhopal University · 2027</strong><br/>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-ranjan-74170a227/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ranjanpriyanshu441@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/priyanshuranjan02"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://priyanshu02-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/github/followers/priyanshuranjan02?label=Followers&style=social" alt="GitHub followers"/>
+</p> -->
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science (AI & ML) undergraduate at VIT Bhopal University** with a strong interest in building intelligent, data-driven products that solve real-world problems.
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning at VIT Bhopal University**, with a **CGPA of 8.81/10**. I enjoy building practical software that connects backend engineering, databases, analytics, and applied AI.
 
-My work spans **Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Product Development**. I enjoy moving beyond isolated models and scripts to build **end-to-end systems** — from analyzing complex datasets and designing backend APIs to integrating AI and creating usable products.
+My work ranges from Java and Spring Boot applications to full-stack products, data warehouses, and machine learning systems. I like taking a problem from understanding the requirements and designing a solution through implementation, testing, debugging, and deployment.
 
-Currently, I'm focused on building **AI-powered applications, analytics platforms, and scalable software products** while strengthening my problem-solving skills through **Data Structures & Algorithms and Competitive Programming**.
-
-- 🔭 **Currently Building:** Intelligent AI and Data-Driven Applications
-- 🌱 **Currently Learning:** • Advanced System Design • Cloud & DevOps • Large Language Models (LLMs)
-- 🤖 **Interested in:** AI/ML, Data Analytics, Product Engineering, and Applied AI
-- 📊 **Working with:** Python, SQL, Pandas, Power BI, and Machine Learning
-- 💻 **Problem solving:** Practicing DSA and Competitive Programming in Java
-- ☁️ **Exploring:** Cloud-based AI and scalable application architectures
-- 🤝 **Open to:** Software Engineering, Data Analytics, AI/ML, and Product-focused opportunities
-- ⚡ **Mindset:** Understand the *why* behind a problem before deciding *what* to build
+- 💼 **Experience:** AI/ML Intern at MPOnline Limited · May–July 2026
+- 🔭 **Building:** Full-stack applications, backend services, and data-driven products
+- 💻 **Core languages:** Java, Python, JavaScript/TypeScript, SQL
+- 🧩 **Software engineering:** OOP, REST APIs, authentication, database design, testing, and Git
+- 📊 **AI & analytics:** Pandas, NumPy, Scikit-learn, EDA, model evaluation, and interactive dashboards
+- 🌱 **Currently strengthening:** System design, cloud fundamentals, DevOps, and LLM-powered applications
+- 🏁 **Problem solving:** Data Structures & Algorithms and competitive programming in Java
+- 🎯 **Open to:** Software Engineering, Backend Development, Python Development, AI/ML, and Data Analytics opportunities
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Aadhaar Insights — End-to-End Analytics Platform
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/Aadhaar-Insights-Analytics-Platform.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=web)](https://aadhaar-insights.streamlit.app/)
+### 1. Aadhaar Insights — Public Data Analytics Platform
 
-> Transforming official UIDAI datasets into actionable regional, temporal, and demographic insights.
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/Aadhaar-Insights-Analytics-Platform)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat-square&logo=streamlit)](https://aadhaar-insights.streamlit.app)
 
-- Performed end-to-end analysis on **three official UIDAI datasets** comprising enrolment, demographic updates, and biometric updates.
-- Built preprocessing pipelines, anomaly detection workflows, and interactive visualizations to uncover demographic, regional, and temporal trends.
-- Developed an analytics platform featuring Power BI dashboards, ML-based forecasting, and a Streamlit interface for interactive insights.
-- Generated actionable recommendations to support data-driven decision-making using public-sector datasets.
+An analytics platform built around three public UIDAI datasets: Aadhaar enrolment, demographic updates, and biometric updates.
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI` `Scikit-learn` `RandomForest`
+- Worked with **3.37M+ records** across the three public datasets.
+- Developed data cleaning, exploratory analysis, regional comparisons, growth and trend analysis, and correlation workflows.
+- Implemented forecasting experiments using baseline, linear regression, and random forest regression models.
+- Added statistical anomaly detection and automated insight/recommendation generation.
+- Built a nine-page Streamlit application and a Power BI executive dashboard.
 
----
-
-### 🏥 AI HealthBot — AI-Powered Healthcare Assistant
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/AI-HealthBot-Companion.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=web)](https://ai-health-bot-companion.vercel.app/)
-
-> A multilingual AI healthcare platform designed to improve preliminary healthcare accessibility for rural communities and NGOs.
-
-- Developed symptom assessment and severity-based triage using **Gemini 2.5 Pro**
-- Designed a secure full-stack architecture with user and NGO workflows
-- Implemented health history, emergency assistance, and analytics dashboards
-- Built responsive interfaces for accessible healthcare interactions
-
-**Tech Stack:** `React` `TypeScript` `Node.js` `Supabase` `Gemini 2.5 Pro` `JWT`
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Plotly` `Matplotlib` `Power BI`
 
 ---
 
-### 🚗 Swayam Saarthi — Reverse Ride-Hailing Platform
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshuranjan02/Swayam-Saarthi.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=web)](https://swayam-saarthi.vercel.app/)
+### 2. AI HealthBot — Multilingual Healthcare Support Platform
 
-> A product platform that enables users to book verified drivers for their own vehicles.
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/AI-HealthBot-Companion)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square&logo=vercel)](https://ai-health-bot-companion.vercel.app)
 
-- Designed separate user and driver journeys with role-based workflows
-- Implemented JWT authentication and multi-step booking lifecycle management
-- Developed scalable REST APIs for booking and driver operations
-- Designed MongoDB schemas for users, drivers, and real-time bookings
+A full-stack healthcare support application for conversational symptom assessment, risk categorization, and community health workflows.
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+- Integrated conversational AI-assisted symptom assessment, contextual follow-up questions, multilingual support, and low/moderate/high risk categorization using Gemini.
+- Developed dedicated user, NGO, and administrator workflows, including NGO application review and reinstatement.
+- Implemented backend authorization and privacy safeguards using Supabase Edge Functions, PostgreSQL, Row Level Security, and audit logging.
+- Built a responsive React and TypeScript interface with secure authentication and assessment history.
+
+**Tech:** `React` `TypeScript` `Supabase` `Supabase Edge Functions` `Deno` `PostgreSQL` `Supabase Auth` `JWT` `Row Level Security` `Gemini 2.5 Pro`
+
+---
+
+### 3. Swayam Saarthi — Full-Stack Ride Booking Platform
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/Swayam-Saarthi)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel)](https://swayam-saarthi.vercel.app)
+
+A ride-booking platform connecting users, drivers, and administrators through dedicated workflows.
+
+- Developed user, driver, and administrator journeys covering bookings, driver availability, ride history, and platform management.
+- Integrated JWT authentication, role-based access, real-time booking updates, notifications, and live map tracking.
+- Built backend services with Node.js, Express, MongoDB, and Socket.IO; implemented the frontend with React and TypeScript.
+- Includes payment workflow, reviews, PDF receipts, and analytics dashboards.
+
+**Tech:** `React` `TypeScript` `Node.js` `Express.js` `MongoDB Atlas` `Mongoose` `JWT` `Socket.IO` `Leaflet` `Tailwind CSS`
+
+---
+
+### 4. Aurelia Library — Java Library Management System
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/Aurelia-Library)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6558F5?style=flat-square&logo=render)](https://aurelia-library-management.onrender.com)
+
+A role-based library management application for administrators, librarians, and students.
+
+- Built a Java 21 and Spring Boot application with REST endpoints and a responsive browser interface.
+- Implemented session authentication, role-based authorization, BCrypt password hashing, CSRF protection, and server-side validation.
+- Used Spring Data JPA, Hibernate, MySQL, and Flyway for persistence and versioned database migrations.
+- The documented deployment-preparation test run completed with **19 tests, 0 failures, and 0 errors**.
+
+**Tech:** `Java 21` `Spring Boot 3.5` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `Flyway` `JUnit 5` `Docker`
+
+---
+
+### 5. Smart Retail Analytics & Recommendation Warehouse
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/Smart-Retail-And-Recommendation-System)
+[![Live Dashboard](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?style=flat-square&logo=streamlit)](https://smart-retail-analytics-warehouse.streamlit.app)
+
+An end-to-end analytics project transforming retail transactions into a dimensional data warehouse and customer intelligence.
+
+- Cleaned **541,909 raw UCI Online Retail records** into **392,692 transaction line items**.
+- Designed a SQLite star schema with four dimension tables and a fact table, supported by **15+ analytical SQL/OLAP queries**.
+- Applied RFM analysis and K-Means clustering to segment **4,338 customers**; selected a four-cluster solution after validation.
+- Generated **68 Apriori association rules** for product-affinity analysis.
+- Built a Streamlit BI application with six analytics modules and a test suite reporting **54 passing tests**, with GitHub Actions CI.
+
+**Tech:** `Python` `Pandas` `NumPy` `SQLite` `SQL` `Scikit-learn` `K-Means` `Apriori` `Streamlit` `Plotly` `Pytest` `GitHub Actions`
+
+---
+
+### 6. Customer Churn Prediction — ML & Explainable API
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/Customer-Churn-Prediction-Project)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=flat-square&logo=streamlit)](https://customer-churn-predict-model02.streamlit.app)
+[![API Docs](https://img.shields.io/badge/FastAPI-API_Docs-009688?style=flat-square&logo=fastapi)](https://customer-churn-prediction-project-tf60.onrender.com/docs)
+
+A machine learning application that estimates customer churn risk and explains individual predictions.
+
+- Prepared the Telco churn dataset, converting **7,043 source records into 7,032 usable records**.
+- Compared classification approaches and selected an XGBoost model that excludes CLTV from its predictors.
+- Achieved **84.96% ROC-AUC and 60.20% F1-score** on the documented held-out test set.
+- Built a FastAPI prediction service and Streamlit interface displaying churn probability, risk category, and SHAP-based explanations.
+- Created a Tableau dashboard for customer and churn-risk analysis.
+
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SHAP` `FastAPI` `Streamlit` `Tableau`
+
+---
+
+### More Project Work
+
+- **VoiceCart — Voice-First Shopping Assistant:** [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/VoiceCart-Assistant)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6558F5?style=flat-square&logo=render)](https://voicecart-assistant.vercel.app/)
+ — React and TypeScript app using browser speech APIs and deterministic multilingual intent parsing for English, Hindi, and Hinglish. Includes product search, shopping-list workflows, recommendations, and **109 passing automated tests**.
+
+- **AI Smart Retail Customer Intelligence Platform:** [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/AI-Smart-Retail-Customer-Intelligence-Platform)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-009688?style=flat-square&logo=render)]([https://customer-churn-prediction-project-tf60.onrender.com/docs](https://ai-smart-retail-customer-intelligence.vercel.app/)) — Computer-vision and NLP-enabled retail application with a FastAPI backend, SQLite persistence, and React dashboard.
+
+- **PET-CT Tumor Segmentation Research:** [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/priyanshuranjan02/CV-Research-PET-CT-Tumor-Segmentation) — Computer-vision research project exploring intensity- and texture-based segmentation workflows for PET-CT images.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL, C++ |
+| **Backend & APIs** | Spring Boot, Spring Security, Node.js, Express.js, FastAPI, REST APIs, JWT |
+| **Frontend** | React, Vite, HTML, CSS, Tailwind CSS |
+| **Databases** | MySQL, PostgreSQL, MongoDB, SQLite, Supabase |
+| **Data & Machine Learning** | Pandas, NumPy, Scikit-learn, XGBoost, OpenCV, SHAP, EDA, model evaluation |
+| **Analytics & Visualization** | Streamlit, Power BI, Tableau, Plotly, Matplotlib, Seaborn |
+| **Testing & Developer Tools** | JUnit, Pytest, Vitest, Git, GitHub Actions, Maven, Docker |
+| **Deployment & Platforms** | Oracle Cloud Infrastructure, Vercel, Render, Supabase |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,typescript"/>
-</p>
+---
 
-### 📊 Data Analytics & Machine Learning
+## 💼 Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
-</p>
+**AI/ML Intern — MPOnline Limited**  
+*May 2026 – July 2026*
 
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `Power BI` • `EDA` • `Machine Learning`
-
-### 🌐 Web & Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind"/>
-</p>
-
-`REST APIs` • `JWT Authentication` • `Role-Based Access Control`
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,sqlite"/>
-</p>
-
-### ☁️ Cloud & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vercel,vscode"/>
-</p>
+Completed an internship in the Artificial Intelligence and Machine Learning domain, gaining practical exposure to applied technical work and problem-solving.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 - 🏅 **Global Rank 1206 — TCS CodeVita Season 13**
-- ☁️ **Oracle OCI Data Science Professional**
-- 🤖 **Applied Machine Learning in Python**
-- ☁️ **Oracle Agentic AI Foundation Associates**
-- 🧠 **Graph Camp — AlgoUniversity**
-- 💻 Actively solving **Data Structures & Algorithms and Competitive Programming problems**
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+- 🤖 **Oracle Agentic AI Foundations Associate**
+- 📘 **Applied Machine Learning in Python**
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<!-- <img src="https://github-readme-stats-eight-sigma-62.vercel.app/api?username=priyanshuranjan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats" /> -->
-<img src="https://github-readme-stats-eight-sigma-62.vercel.app/api?username=priyanshuranjan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<!-- <img src="https://streak-stats.demolab.com?user=priyanshuranjan02&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
- -->
-<img src="https://github-readme-streak-stats-opal-eight-99.vercel.app/?user=priyanshuranjan02&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-stats-eight-sigma-62.vercel.app/api/top-langs?username=priyanshuranjan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuranjan02&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Map" width="100%" alt="Contribution activity graph" />
-
+  <img src="https://github-readme-stats-eight-sigma-62.vercel.app/api?username=priyanshuranjan02&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-streak-stats-opal-eight-99.vercel.app/?user=priyanshuranjan02&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
+  <br/>
+  <img src="https://github-readme-stats-eight-sigma-62.vercel.app/api/top-langs?username=priyanshuranjan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used languages"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuranjan02&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution graph"/>
 </div>
 
----
-
-## Competitive Programming & Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111827)](https://leetcode.com/u/priyanshuranjan02/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/priyanshu0210)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_multitasker)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranjanpriyanshu6)
+<sub>GitHub language cards reflect repository composition and are not a measure of proficiency. Stats and activity cards are generated dynamically by their respective services.</sub>
 
 ---
 
-## 🎯 What I'm Working Towards
+## 💻 Competitive Programming
 
-I enjoy building software products that combine **AI, data, and scalable engineering** to solve practical problems. My goal is to contribute to high-impact systems where I can work across software engineering, machine learning, and analytics while continuously improving my technical depth.
-
-I'm particularly interested in opportunities where I can:
-
-- Work with real-world datasets and derive actionable insights
-- Build AI-powered and data-driven products
-- Collaborate across Product and Engineering teams
-- Solve ambiguous problems through first-principles thinking
-- Take ownership of features from idea to implementation
+<p>
+  <a href="https://leetcode.com/u/priyanshuranjan02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111827" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/priyanshu0210"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/mr_multitasker"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.hackerrank.com/profile/ranjanpriyanshu6"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+</p>
 
 ---
+
+## 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can contribute to real products, learn from strong engineering teams, and take ownership of meaningful work. I'm especially interested in backend and full-stack engineering, Python development, applied AI/ML, and data-driven software.
+
+I value clear problem-solving, readable and maintainable code, thoughtful testing, continuous learning, and collaboration across engineering and product teams.
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing **AI/ML, Data Analytics, Software Engineering, Product Development, and interesting technology ideas**.
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-ranjan-74170a227/">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:ranjanpriyanshu441@gmail.com">
-    <img src="https://img.shields.io/badge/Reach_Out-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://priyanshu02-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_More-Portfolio-0A66C2?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-ranjan-74170a227/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ranjanpriyanshu441@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://priyanshu02-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshuranjan02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=priyanshuranjan02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
----
-
-<p align="center">
-  <i>"Understand the problem deeply. Build the solution deliberately."</i>
-</p>
+<p align="center"><i>"Understand the problem deeply. Build the solution deliberately."</i></p>
